@@ -87,7 +87,7 @@ https://www.github.com/maxx-808
 
 ## Heroku Deployable URL:
 
-https://vast-escarpment-39602.herokuapp.com/plants
+https://greenhaus2.herokuapp.com/
 
 ## Email Address:
 
